@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Antonio</h1>
 <h3 align="center">A passionate CS Student Engineer from Mexico</h3>
 
-- 🔭 I’m currently working on **Grupo Promesa**
+- 🔭 I’m currently working on **BoletoMóvil**
 
-- 🌱 I’m currently learning **Django, Python, GCP, Psql**
+- 🌱 I’m currently learning **React, Node JS, AWS**
 
-- 👯 I’m looking to collaborate on **Full-stack projects**
+- 👯 I’m looking to collaborate on **Social projects**
 
-- 🤝 I’m looking for help with **infraestructure with Django**
+- 🤝 I’m looking for help with **React, Node JS**
 
 - 👨‍💻 All of my projects are available at [GitHub](GitHub)
 
-- 💬 Ask me about **React, Vue, Linux, Node Js**
+- 💬 Ask me about **React, Node Js, Discrete Maths**
 
 - 📫 How to reach me **jantonio.vema@gmail.com**
 
