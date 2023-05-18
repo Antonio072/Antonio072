@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Antonio</h1>
-<h3 align="center">A passionate CS Student Engineer from Mexico</h3>
+<h3 align="center">A passionate CS Engineer from Mexico</h3>
 
 - 🌱 I’m currently learning **React, Node JS, AWS**
 
